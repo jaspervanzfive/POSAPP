@@ -5,7 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ShopApp"
         mc:Ignorable="d"
- Title="" Height="768" Width="1366" SizeChanged="Window_SizeChanged">
+ Title="" Height="768" Width="1366" SizeChanged="Window_SizeChanged"
+       MinHeight="768" MinWidth="1366" 
+        >
     <Window.Resources>
         <Style x:Key="SideFont">
             <Setter Property="TextElement.FontFamily" Value="Open Sans Semibold"/>

@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ShopApp.Page
+namespace ShopApp.Pages
 {
     /// <summary>
-    /// Interaction logic for Page_Products.xaml
+    /// Interaction logic for Products_Page.xaml
     /// </summary>
-    public partial class Page_Products : Page
+    public partial class Products_Page : Page
     {
-        public Page_Products()
+        public Products_Page()
         {
             InitializeComponent();
         }
